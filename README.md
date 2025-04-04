@@ -22,7 +22,7 @@ This project is a simple API that analyzes the sentiment of text using the `tran
 3.  **Install dependencies:**
 
     ```bash
-    pip install fastapi uvicorn transformers newspaper python-dotenv spacy
+    pip install -r requirements.txt
     python -m spacy download en_core_web_sm
     ```
 
